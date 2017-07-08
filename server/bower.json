@@ -1,0 +1,23 @@
+{
+  "name": "priority-queue-frontend",
+  "authors": [
+    "rahulserver <rahulserver@gmail.com>"
+  ],
+  "description": "",
+  "main": "index.js",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-growl-v2": "^0.7.9",
+    "angular": "1.6.4",
+    "bootstrap": "^3.3.7",
+    "socket.io": "^2.0.3"
+  }
+}
